@@ -1,1 +1,2 @@
-# react-tutorial
+# react-study
+写経用Repository
